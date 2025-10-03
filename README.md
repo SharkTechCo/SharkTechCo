@@ -67,7 +67,7 @@ I love collaborating, sharing knowledge, and building projects that people actua
   <br>
   💬 Ask me anything about from <a href="https://github.com/SharkTechCo/SharkTechCo/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto:mtwins2022"gmail.com">mtwins2022"gmail.com</a>
+  📫 How to reach me:@mtwins2022"gmail.com
 </p>
 
 <hr>
