@@ -13,15 +13,16 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://www.hackerrank.com/profile/mtwins2022" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" alt="HackerRank" width="40" height="40" style="fill:#00EA64;"/>
   </a>
   <a href="https://stackoverflow.com/users/12578260/osman-durdag" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" width="40" height="40"/>
   </a>
   <a href="https://www.instagram.com/twinss.ts/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="40" height="40" style="fill:#E4405F;"/>
   </a>
 </p>
+
 
 
 </h5>
