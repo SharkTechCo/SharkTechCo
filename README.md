@@ -14,20 +14,35 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
+<strong> 👋 Hey there!, I’m Mahmoud Hamada El Shark </strong> 
+<br/>
+💡 I’m not just a developer, I’m a problem solver who loves turning ideas into digital experiences.<br/>
+  From designing smooth interfaces with HTML, CSS, Bootstrap & JavaScript, to building powerful backends with ASP.NET, C#, and MySQL, I enjoy crafting software that just works.
   <br>
-  <br>
-  🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
-  <br>
-  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
-  <br>
-  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
-  <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+
+🎓 I studied Computer Engineering at  Pharaohs Technical University and continued sharpening my skills at IT  Egypt.
+<br/>
+Along the way, I discovered one simple truth:
+<br/>
+Great code is not just written, it’s engineered.
+<br/>
+🌍 Based in Cairo, Egypt, I spend my time learning, coding, and experimenting with new technologies — because every bug fixed is a story, and every project is a journey.
+<br/>
+🔧 Tech I Work With
+<br/>
+ASP.NET | C# | MySQL
+<br/>
+JavaScript | HTML | CSS | Bootstrap
+<br/>
+Always curious about new tools, frameworks, and ideas 💭
+<br/>
+🚀 What Keeps Me Going?
+<br/>
+I believe in code that inspires. For me, software development is more than a career; it’s a craft.
+<br/>
+I love collaborating, sharing knowledge, and building projects that people actually enjoy using.
+<br/>
+📩 Always open to opportunities, challenges, and cool collaborations!
   <br>
   💬 Ask me anything about from <a href="https://github.com/SharkTechCo/SharkTechCo/issues" title="Issues">Here</a>
   <br>
@@ -38,39 +53,24 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="images/django.png"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="Gulp" height="25" src="images/gulp.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Redux" height="25" src="images/redux.svg"></code>
-  <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
-  <code><img title="Android" height="25" src="images/android.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
+<code><img title="C#" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></code>
+<code><img title="Javascript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+<code><img title="Problem Solving" height="25" src="https://img.icons8.com/?size=512&id=63307&format=png"></code>
+<code><img title="HTML5" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+<code><img title="CSS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+<code><img title="SASS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></code>
+<code><img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+<code><img title=".NET Core" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"></code>
+<code><img title="Visual Studio Code" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
+<code><img title="Microsoft Visual Studio" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"></code>
+<code><img title="Unity" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"></code>
+<code><img title="GitHub" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
+<code><img title="MySQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
+
 </p>
 <hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<!-- <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
@@ -115,5 +115,5 @@
   <a href="https://github.com/SharkTechCo" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
-
+-->
 
