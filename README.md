@@ -12,17 +12,17 @@
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/mahmoud-hamada-67a2332b9/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" style="margin-right: 15px;"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/profile/mtwins2022" target="_blank">
     <img src="https://cdn.simpleicons.org/hackerrank/00EA64" alt="HackerRank" width="40" style="margin-right: 15px;"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <!-- Stack Overflow -->
   <a href="https://stackoverflow.com/users/12578260/osman-durdag" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" width="40" style="margin-right: 15px;"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <!-- Instagram -->
   <a href="https://www.instagram.com/twinss.ts/" target="_blank">
