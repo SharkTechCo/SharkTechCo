@@ -8,7 +8,12 @@
 </h1>
 
 <h5 align="center">
-<p align="center">
+<p align="center" style="
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+">
   <!-- LinkedIn (devicon) -->
   <a href="https://www.linkedin.com/in/mahmoud-hamada-67a2332b9/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
