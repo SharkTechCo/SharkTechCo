@@ -9,10 +9,10 @@
 
 <h5 align="center">
 <p align="center" style="
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 40px;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    gap: 40px !important;
 ">
   <!-- LinkedIn (devicon) -->
   <a href="https://www.linkedin.com/in/mahmoud-hamada-67a2332b9/" target="_blank">
