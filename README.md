@@ -8,31 +8,20 @@
 </h1>
 
 <h5 align="center">
-  <div styly="display:inline-block;">
-<code>
-  <a href="https://www.linkedin.com/in/mahmoud-hamada-67a2332b9/" title="LinkedIn Profile">
-    <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn
-  </a>
-</code>
+<code><img title="C#" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></code>
+<code><img title="Javascript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+<code><img title="Problem Solving" height="25" src="https://img.icons8.com/?size=512&id=63307&format=png"></code>
+<code><img title="HTML5" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+<code><img title="CSS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+<code><img title="SASS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></code>
+<code><img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+<code><img title=".NET Core" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"></code>
+<code><img title="Visual Studio Code" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
+<code><img title="Microsoft Visual Studio" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"></code>
+<code><img title="Unity" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"></code>
+<code><img title="GitHub" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
+<code><img title="MySQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
 
-<code>
-  <a href="https://www.hackerrank.com/profile/mtwins2022" title="HackerRank Profile">
-    <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg"> HackerRank
-  </a>
-</code>
-
-<code>
-  <a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile">
-    <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg"> Stack Overflow
-  </a>
-</code>
-
-<code>
-  <a href="https://www.instagram.com/twinss.ts/" title="Instagram Profile">
-    <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg"> Instagram
-  </a>
-</code>
-</div>
 </h5>
 <br>
 <p align="center">
