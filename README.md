@@ -8,10 +8,30 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/mahmoud-hamada-67a2332b9/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/profile/mtwins2022" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/twinss.ts/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+<code>
+  <a href="https://www.linkedin.com/in/mahmoud-hamada-67a2332b9/" title="LinkedIn Profile">
+    <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn
+  </a>
+</code>
+
+<code>
+  <a href="https://www.hackerrank.com/profile/mtwins2022" title="HackerRank Profile">
+    <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg"> HackerRank
+  </a>
+</code>
+
+<code>
+  <a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile">
+    <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg"> Stack Overflow
+  </a>
+</code>
+
+<code>
+  <a href="https://www.instagram.com/twinss.ts/" title="Instagram Profile">
+    <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg"> Instagram
+  </a>
+</code>
+
 </h5>
 <br>
 <p align="center">
