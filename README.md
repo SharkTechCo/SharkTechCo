@@ -91,7 +91,7 @@ I love collaborating, sharing knowledge, and building projects that people actua
 </p>
 <hr>
 
-<!-- <h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
@@ -136,5 +136,5 @@ I love collaborating, sharing knowledge, and building projects that people actua
   <a href="https://github.com/SharkTechCo" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
--->
+
 
