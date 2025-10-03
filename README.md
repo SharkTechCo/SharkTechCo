@@ -115,23 +115,23 @@ I love collaborating, sharing knowledge, and building projects that people actua
 
 <hr>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h2 align="center">👨‍💻 Featured Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/SharkTechCo/YourProject1" title="YourProject1">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SharkTechCo&repo=YourProject1&theme=react&border_color=61dafb&border_radius=10">
+  <a align="left" href="https://github.com/SharkTechCo/AspNetCore-Ecommerce" title="ASP.NET Core Ecommerce">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SharkTechCo&repo=AspNetCore-Ecommerce&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a align="right" href="https://github.com/SharkTechCo/YourProject2" title="YourProject2">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SharkTechCo&repo=YourProject2&theme=react&border_color=61dafb&border_radius=10">
+  <a align="right" href="https://github.com/SharkTechCo/Portfolio-Website" title="Portfolio Website">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SharkTechCo&repo=Portfolio-Website&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/SharkTechCo/YourProject3" title="YourProject3">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SharkTechCo&repo=YourProject3&theme=react&border_color=61dafb&border_radius=10">
+  <a align="left" href="https://github.com/SharkTechCo/TaskManagerApp" title="Task Manager App">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SharkTechCo&repo=TaskManagerApp&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a align="right" href="https://github.com/SharkTechCo/YourProject4" title="YourProject4">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SharkTechCo&repo=YourProject4&theme=react&border_color=61dafb&border_radius=10">
+  <a align="right" href="https://github.com/SharkTechCo/Problem-Solving" title="Problem Solving">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SharkTechCo&repo=Problem-Solving&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
@@ -139,6 +139,7 @@ I love collaborating, sharing knowledge, and building projects that people actua
 <h4 align="center">
   <a href="https://github.com/SharkTechCo" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+
 
 
 
