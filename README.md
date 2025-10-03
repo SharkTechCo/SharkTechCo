@@ -10,22 +10,22 @@
 <h5 align="center">
 <p align="center">
   <!-- LinkedIn (devicon) -->
-  <a href="https://www.linkedin.com/in/mahmoud-hamada-67a2332b9/" target="_blank"  style="display: flex ;justify-content: center;align-items: center;gap:10px ;">
+  <a href="https://www.linkedin.com/in/mahmoud-hamada-67a2332b9/" target="_blank"  >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
   </a>
 
   <!-- HackerRank (Simple Icons CDN) -->
-  <a href="https://www.hackerrank.com/profile/mtwins2022" target="_blank"  style="display: flex ;justify-content: center;align-items: center;gap:10px ;">
+  <a href="https://www.hackerrank.com/profile/mtwins2022" target="_blank"  >
     <img src="https://cdn.simpleicons.org/hackerrank/00EA64" alt="HackerRank" width="40" />
   </a>
 
   <!-- StackOverflow (devicon) -->
-  <a href="https://stackoverflow.com/users/12578260/osman-durdag" target="_blank"  style="display: flex ;justify-content: center;align-items: center;gap:10px ;">
+  <a href="https://stackoverflow.com/users/12578260/osman-durdag" target="_blank" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" alt="StackOverflow" width="40" />
   </a>
 
   <!-- Instagram (Simple Icons CDN) -->
-  <a href="https://www.instagram.com/twinss.ts/" target="_blank"  style="display: flex ;justify-content: center;align-items: center;gap:10px ;">
+  <a href="https://www.instagram.com/twinss.ts/" target="_blank" >
     <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="40" />
   </a>
 </p>
